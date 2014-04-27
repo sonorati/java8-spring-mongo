@@ -1,0 +1,8 @@
+dea
+*.iml
+build.gradle
+target
+build
+.classpath
+.project
+.settings
